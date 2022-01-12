@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Parcul National Bucegi</title>
+		<link rel="stylesheet" href="../css/main.css" type="text/css"/>
+		<style>
+				body{
+					background-color: turquoise;
+				}
+
+		</style>
+	</head>
+	<body link="white">
+			<table width="800px" align="center" >
+					<tr>
+							<td align="center" class="title">
+									<h1>Parcul National Bucegi</h1>
+							</td>
+					</tr>
+				</table>
+			<table width="800px" align="center" class="web">
+					<tr>
+							<td width="265px" align="center">
+									<a href="../index.html"><img border="0" alt="Home" src="../media/button_home.png" width="111" height="46"/></a>
+							</td>
+							<td width="265px" align="center">
+									<a href="despre.html"><img border="0" alt="About" src="../media/button_despre.png" width="111" height="46"/></a>
+							</td>
+							<td align="center">
+									<a href="#"><img border="0" alt="Game" src="../media/button_contact.png" width="111" height="46"/></a>
+							</td>
+					</tr>
+			</table>
+      <table width="800px" align="center" class="subiect">
+          <tr>
+              <td align="center">
+              <h1>Contact</h1>
+              </td>
+          </tr>
+          <tr>
+            <td class="nume">
+				<p>PROGRAM DE FUNCŢIONARE:
+				LUNI - JOI 8:00 - 16:30
+				VINERI 8:00 - 14:00</p>
+
+				<p>PROGRAM DE AUDIENŢE:
+				LUNI 8:00 - 11:00
+				PROGRAM DE FURNIZARE A INFORMAŢIILOR DE INTERES PUBLIC:
+				LUNI - JOI 8:00 - 16:30
+				VINERI 8:00 - 14:00</p>
+
+ 
+
+				RNP ROMSILVA - ADMINISTRAŢIA PARCULUI NATURAL BUCEGI RA
+
+				Str. Principală Nr. 71, Localitatea Moroeni, Judeţul Dâmboviţa, Cod poştal: 137316, România
+
+				Director: Dumitru Horia Iuncu
+
+				Tel. +40245 772640; Fax: +40245 772636;
+
+				Email: bucegipark@gmail.com
+            </td>
+          </tr>
+      </table>
+	  <table width="800px" align="center" class="copywrite">
+				<tr>
+					<td align="center">
+						Creat de Sebastian Iacob - 2022
+					</td>
+				</tr>
+		</table>
+	</body>
+</html>
